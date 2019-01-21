@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg id="badge" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 166.7 167" style="enable-background:new 0 0 166.7 167;" xml:space="preserve">
 <style type="text/css">
 	.st0{opacity:0.7;}
@@ -9,6 +9,9 @@
 	.st3{fill:#999999;}
 	.st4{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:0.8597,0.8597;}
 	.st5{opacity:0.7;fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+
+	#badge:hover .st2 { fill: #50CC00; } 
+	#badge:hover .st3 { fill: #FFE708; }
 </style>
 <g id="background">
 	<g>
